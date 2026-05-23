@@ -302,7 +302,7 @@ export default function App() {
                       Every relationship maps as a directional vector where structural change can happen across a maximum of 4 dimensions [x, y, j, k]. When a context switch updates an axis, it registers as a linear modifier vector that is applied to the space:
                       <blockquote className="bg-[#141414]/5 rounded-none p-3 my-2 border-l-2 border-[#141414] text-[11px] font-mono whitespace-pre">
                         Context X is Before Context B (Inversion: -1)
-Context Y is After Context C (Preservation: 1)
+Context Y is After Context C (Scaling: 1)
                       </blockquote>
                     </p>
                   </div>
