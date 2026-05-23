@@ -1,0 +1,8 @@
+{
+  "name": "RRT",
+  "description": "Relational Reasoning Training - an engine and interactive training platform designed to enhance relational processing and increase fluid IQ through multi-dimensional vector space puzzles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
