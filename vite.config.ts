@@ -15,7 +15,7 @@ export default defineConfig(() => {
     server: {
       host: '0.0.0.0', // This is often necessary for Replit to work correctly
       allowedHosts: [
-        context-rrt-production.up.railway.app
+        context-rrt-production.up.railway.app,
       ]
     },
   };
