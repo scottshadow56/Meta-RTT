@@ -1668,7 +1668,7 @@ export default function TrainingWorkspace({
                   </p>
                   
                   <div className="mt-3.5 flex items-center justify-between border-t border-dashed border-theme-comp/20 pt-3 flex-wrap gap-2">
-                    <span className="text-[10px] sm:text-[11px] font-mono text-theme-text/60 font-medium">Need help visualising the transformations?</span>
+                    <span className="text-[10px] sm:text-[11px] font-mono text-theme-text/60 font-medium">Need help spatializing the transformations?</span>
                     <button
                       onClick={() => setShowCtxExplanation(prev => !prev)}
                       className="px-3 py-1 bg-theme-card hover:bg-theme-comp/10 text-theme-text text-[10px] sm:text-[11px] font-mono font-bold border border-theme-comp flex items-center gap-1.5 cursor-pointer uppercase tracking-tight select-none transition-all duration-150"
